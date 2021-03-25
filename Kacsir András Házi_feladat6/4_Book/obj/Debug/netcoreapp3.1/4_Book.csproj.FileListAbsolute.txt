@@ -1,0 +1,13 @@
+C:\Users\atoth\Downloads\andris\4_Book\bin\Debug\netcoreapp3.1\4_Book.exe
+C:\Users\atoth\Downloads\andris\4_Book\bin\Debug\netcoreapp3.1\4_Book.deps.json
+C:\Users\atoth\Downloads\andris\4_Book\bin\Debug\netcoreapp3.1\4_Book.runtimeconfig.json
+C:\Users\atoth\Downloads\andris\4_Book\bin\Debug\netcoreapp3.1\4_Book.runtimeconfig.dev.json
+C:\Users\atoth\Downloads\andris\4_Book\bin\Debug\netcoreapp3.1\4_Book.dll
+C:\Users\atoth\Downloads\andris\4_Book\bin\Debug\netcoreapp3.1\4_Book.pdb
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.csprojAssemblyReference.cache
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.AssemblyInfoInputs.cache
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.AssemblyInfo.cs
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.csproj.CoreCompileInputs.cache
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.dll
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.pdb
+C:\Users\atoth\Downloads\andris\4_Book\obj\Debug\netcoreapp3.1\4_Book.genruntimeconfig.cache

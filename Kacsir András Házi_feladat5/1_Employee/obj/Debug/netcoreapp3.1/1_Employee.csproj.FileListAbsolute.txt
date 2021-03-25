@@ -1,0 +1,13 @@
+C:\Users\atoth\Downloads\andris\1_Employee\bin\Debug\netcoreapp3.1\1_Employee.exe
+C:\Users\atoth\Downloads\andris\1_Employee\bin\Debug\netcoreapp3.1\1_Employee.deps.json
+C:\Users\atoth\Downloads\andris\1_Employee\bin\Debug\netcoreapp3.1\1_Employee.runtimeconfig.json
+C:\Users\atoth\Downloads\andris\1_Employee\bin\Debug\netcoreapp3.1\1_Employee.runtimeconfig.dev.json
+C:\Users\atoth\Downloads\andris\1_Employee\bin\Debug\netcoreapp3.1\1_Employee.dll
+C:\Users\atoth\Downloads\andris\1_Employee\bin\Debug\netcoreapp3.1\1_Employee.pdb
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.csprojAssemblyReference.cache
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.AssemblyInfoInputs.cache
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.AssemblyInfo.cs
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.csproj.CoreCompileInputs.cache
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.dll
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.pdb
+C:\Users\atoth\Downloads\andris\1_Employee\obj\Debug\netcoreapp3.1\1_Employee.genruntimeconfig.cache
